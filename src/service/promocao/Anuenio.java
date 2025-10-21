@@ -26,7 +26,7 @@ public class Anuenio implements Reajuste,ReajusteTributavel {
 
   @Override
   public BigDecimal valorImpostoDeRenda() {
-    return valor.multiply(new BigDecimal("0.1", 0"));
+    return valor.multiply(new BigDecimal("0.1", "0"));
   }
   
 }
