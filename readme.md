@@ -1,4 +1,4 @@
-##Classes e Suas Responsabilidades
+# Classes e Suas Responsabilidades
 ---
 ```Item.java```
 O que faz: Representa um produto individual
