@@ -1,6 +1,6 @@
 #Classes e Suas Responsabilidades
 ---
-´´´Item.java```
+```Item.java´´´
 O que faz: Representa um produto individual
 Para que serve: Armazenar nome e preço de um item do pedido
 
